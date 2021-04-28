@@ -1,6 +1,6 @@
-# Real-time Chat App with Pusher and Vue #
+# Real-time Chat App with Stream and Vue #
 
-* Real-time chat application using Vue.js powered by ChatKit, a service provided by Pusher
+* Real-time chat application using Vue.js powered by Stream, a service provided by getstream.io
 
 Demonstration repository to develop a Vue.js app with real time interactions.
 
